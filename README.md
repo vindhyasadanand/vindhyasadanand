@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vindhya Hegde</h1>
-<h3 align="center">A passionate Full-Stack developer | Java | JavaScript from India</h3>
+<h3 align="center"> CSE Undergraduate A passionate Full-Stack developer | Java | JavaScript from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/vindhyasadanand" alt="https://github.com/vindhyasadanand" /> </p>
 
 - 💬 Ask me about **Angular, Node.js, DataStructures and Algorithms , Java ,C ,HTML,CSS**
