@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vindhyasadanand31@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1h7nJocitm0uxXZ3dixjEMNpg9X28cvPf/view?usp=sharing](https://drive.google.com/file/d/1h7nJocitm0uxXZ3dixjEMNpg9X28cvPf/view?usp=sharing)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
